@@ -6,9 +6,9 @@ layout: default
 
 <br>
 
-![Colorful Dust]
+![Colorful Dust](https://image.freepik.com/free-photo/explosion-colored-powder-white-background_1112-1555.jpg)
 
 <br>
 
-{% include 03-links.md %}
+![Sparkles](https://image.freepik.com/free-vector/shining-bokeh-overlay-background_1409-778.jpg)
 
