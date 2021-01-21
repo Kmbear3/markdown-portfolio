@@ -12,3 +12,10 @@ layout: default
 
 ![Sparkles](https://image.freepik.com/free-vector/shining-bokeh-overlay-background_1409-778.jpg)
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
